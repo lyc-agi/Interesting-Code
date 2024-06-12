@@ -5,7 +5,7 @@ def wazzup():
     """
     假亦真时真亦假
     """
-    global true
+    global True # WRONG
     if False is true:
         true = True
         return false
